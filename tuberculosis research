@@ -1,0 +1,12 @@
+echo "<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>TBShield - Tuberculosis Research</title>
+</head>
+<body>
+    <h1>Welcome to TBShield</h1>
+    <p>Providing the latest research and information on Tuberculosis.</p>
+</body>
+</html>" > index.html
